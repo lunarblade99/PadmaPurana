@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Padma Purana</string>
+    <string name="title_activity_navigation">Padma Purana</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="padma_purana">PADMA PURANA</string>
+    <string name="the_puranas_2020_21">THE PURANAS 2020 – 21</string>
+    <string name="part_1">PART 1</string>
+    <string name="page_1_to_425">Page:- 1 to 425</string>
+    <string name="part_2">PART 2</string>
+    <string name="page_425_to_897">Page:- 425 to 897</string>
+    <string name="part_3">PART 3</string>
+    <string name="page_897_to_1241">Page:- 897 to 1241</string>
+    <string name="part_4">PART 4</string>
+    <string name="page_1241_to_1565">Page:- 1241 to 1565</string>
+    <string name="part_5">PART 5</string>
+    <string name="page_1565_to_1939">Page:- 1565 to 1939</string>
+    <string name="page_1939_to_2313">Page:- 1939 to 2313</string>
+    <string name="part_8">PART 8</string>
+    <string name="page_2633_to_2943">Page:- 2633 to 2943</string>
+    <string name="part_9">PART 9</string>
+    <string name="page_2943_to_3279">Page:- 2943 to 3279</string>
+    <string name="part_10">PART 10</string>
+    <string name="page_3279_to_3545">Page:- 3279 to 3545</string>
+    <string name="part_7">PART 7</string>
+    <string name="part_6">PART 6</string>
+    <string name="page_2313_to_2633">Page:- 2313 to 2633</string>
+
+    <string name="my_desc">I know what is right but I am not able to practice it; I know what is wrong and I am not able to keep away from it. I act as I am directed to by some mysterious power that is seated in my heart.</string>
+    <string name="about_me">About Me</string>
+    <string name="contact">Contact</string>
+    <string name="skills">Likes</string>
+    <string name="ratings">Star Ratings</string>
+    <string name="samplereview">No, it is not for Hindus. It\'s similar to a manual of life. There is no implied restrictions, somewhere it is even stated all human beings regardless of differences, should take advantage of this book. Pick yourself up one, but I have to warn you, the teachings are open to multiple interpretations, if you seriously want to practice then you would have to find a legit master.</string>
+    <string name="job_success">popularity</string>
+
+</resources>
