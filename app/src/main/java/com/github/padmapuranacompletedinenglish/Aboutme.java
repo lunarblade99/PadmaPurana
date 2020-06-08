@@ -25,7 +25,7 @@ public class Aboutme extends AppCompatActivity {
         experiencebtn = findViewById(R.id.experiencebtn);
         reviewbtn = findViewById(R.id.reviewbtn);
         back = findViewById(R.id.backy);
-        /*making personal info visible*/
+        //making personal info visible
         personalinfo.setVisibility(View.VISIBLE);
         experience.setVisibility(View.GONE);
         review.setVisibility(View.GONE);
